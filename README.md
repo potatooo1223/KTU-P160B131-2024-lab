@@ -9,7 +9,8 @@
 
 Atsakymas:
 
-![](img/2.1_uzduotis.png)
+![2 1_uzduotis](https://github.com/potatooo1223/KTU-P160B131-2024-lab/assets/150597635/55c2012a-ce5a-4640-85ff-af61e16a2383)
+
 
 Išvados:
 
