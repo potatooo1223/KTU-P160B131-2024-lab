@@ -9,7 +9,7 @@
 
 Atsakymas:
 
-(img/2.1_uzduotis.png)
+!(img/2.1_uzduotis.png)
 
 Išvados:
 
