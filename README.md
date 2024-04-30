@@ -9,7 +9,7 @@
 
 Atsakymas:
 
-![histograma](img/2.1_uzduotis.png)
+![histogram](img/2.1_uzduotis.png)
 
 Išvados:
 
@@ -17,7 +17,7 @@ Išvados:
 
 Atsakymas:
 
-![atlyginimai](img/2.2_uzduotis.png)
+![graph](img/2.2_uzduotis.png)
 
 Išvados:
 
@@ -26,7 +26,7 @@ Išvados:
 
 Atsakymas:
 
-![apdraustieji](2.3_uzduotis.png)
+![graphic](2.3_uzduotis.png)
 
 Išvados:
 
