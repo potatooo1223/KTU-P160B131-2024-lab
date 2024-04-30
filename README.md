@@ -28,7 +28,8 @@ Išvados:
 
 Atsakymas:
 
-![graphic](2.3_uzduotis.png)
+![2 3_uzduotis](https://github.com/potatooo1223/KTU-P160B131-2024-lab/assets/150597635/3e12bc4f-add0-41c7-a3d8-2c48c6f99000)
+
 
 Išvados:
 
@@ -37,4 +38,5 @@ Išvados:
 
 Shiny R aplikacijos nuotrauka:
 
-![shiny app](img/shinyR.png)
+<img width="673" alt="shinyR" src="https://github.com/potatooo1223/KTU-P160B131-2024-lab/assets/150597635/da1e7df1-c1e6-4870-8280-44689167f16c">
+
