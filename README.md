@@ -18,7 +18,8 @@ Išvados:
 
 Atsakymas:
 
-![graph](img/2.2_uzduotis.png)
+![2 2_uzduotis](https://github.com/potatooo1223/KTU-P160B131-2024-lab/assets/150597635/6ca80812-60f8-4555-8ebe-4f3b44afa165)
+
 
 Išvados:
 
